@@ -1,0 +1,5 @@
+{
+  "name": "LUCID",
+  "description": "Lucid is an intelligent, adaptive productivity platform designed to organize your life, optimize your time, and help you achieve your goals efficiently. Unlike standard calendars or to-do apps, Lucid combines AI-driven scheduling, natural language task input, personalized analytics, and productivity tools to create a comprehensive life management system.\n\nLucid learns from your habits, focus patterns, and past behavior, then automatically generates schedules, suggests optimal task timings, and helps improve productivity, sleep, and focus. Users remain in full control, with options to accept, edit, or cancel any AI-generated suggestions.",
+  "requestFramePermissions": []
+}
